@@ -1,0 +1,17 @@
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.deps.json
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.dll
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Infrastructure.pdb
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Application.dll
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Domain.dll
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Application.pdb
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\bin\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.AssemblyInfo.cs
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.csproj.CopyComplete
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.dll
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\refint\CleanMovie.Infrastructure.dll
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\CleanMovie.Infrastructure.pdb
+D:\Projects\Clean Architecture\CleanMovie.Domain\CleanMovie.Infrastructure\obj\Debug\net6.0\ref\CleanMovie.Infrastructure.dll
