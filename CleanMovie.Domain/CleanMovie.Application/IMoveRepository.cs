@@ -10,5 +10,7 @@ namespace CleanMovie.Application
     public interface IMoveRepository
     {
         List<Movie> GetAllMovies();
+
+        Movie CreateMovie(Movie movie);
     }
 }

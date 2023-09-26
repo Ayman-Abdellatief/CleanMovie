@@ -10,14 +10,24 @@ namespace CleanMovie.Infrastructure
 {
     public class MoveRepository : IMoveRepository
     {
-        public static List<Movie> movies = new List<Movie>()
+      
+        private readonly MovieDbContext _movieDbContext;
+
+        public MoveRepository(MovieDbContext movieDbContext)
         {
-            new Movie {Id = 1,Name  = "Passion of Christ",Cost = 5},
-            new Movie {Id = 2,Name  = "Home Alone 4",Cost = 6}
-        };
+            _movieDbContext = movieDbContext;
+        }
+        public Movie CreateMovie(Movie movie)
+        {
+            _movieDbContext.Movies.Add(movie);
+            _movieDbContext.SaveChanges();
+
+            return movie;
+        }
+
         public List<Movie> GetAllMovies()
         {
-            return movies;
+           return _movieDbContext.Movies.ToList();
         }
     }
 }
